@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Personal Student Portfolio",
+    "description": "A responsive personal website that introduces me, presents my skills, and organizes my sample projects in one place.",
+    "technologies": ["HTML", "CSS", "JavaScript", "JSON"],
+    "role": "Student developer.",
+    "screenshot": "project1.png",
+    "imageAlt": "Purple portfolio website layout preview",
+    "link": "https://jeniepascua121007-lgtm.github.io/Portfolio-/",
+    "linkLabel": "View project"
+  }
+]
